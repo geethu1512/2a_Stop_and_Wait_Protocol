@@ -1,6 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
 ## Name : GEETHU R
-## Register No.:212224040089
+## Register No. :212224040089
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
